@@ -120,10 +120,10 @@
   <a href="https://fb.com/navnathkick9" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.leetcode.com/Navnathkumar222001" target="_blank">
+  <a href="https://www.leetcode.com/Navnathsonawane222001" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/Navnathkumar222001" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/Navnathsonawane" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
   </a>
   <a href="mailto:sonawanenavnath2026@gmail.com">
